@@ -10,3 +10,19 @@ Analyzing these papers, we have found that (1) the relationship between Move Met
 Feature Envy bad smell appears as the most discussed issues in these studies; (2) there are 
 different refactoring strategies than those proposed by Fowler to address bad smells; and (3), 
 we have identified ten tools, which refactor from bad smell detection.
+
+
+
+###### Filtering Databases
+
+
+
+| Database            | 1º Step | 2º Step | 3º Step | 4º Step | 5º Step | 6º Step |
+|:--------------------|:--------|:--------|:--------|:--------|:--------|:--------|
+| ACM Digital Library | 97 | 68  | 33 | 25 | 12 | 03 |
+| Engineering Village | 20 | 13  | 06 | 04 | 03 | 03 |
+| IEEE Xplore         | 28 | 18  | 12 | 05 | 02 | 00 |
+| Science Direct      | 02 | 02  | 01 | 01 | 01 | 00 |
+| Scopus              | 17 | 11  | 06 | 04 | 03 | 01 |
+| Springer            | 2,016 | 210  | 95 | 95 | 43 | 08 |
+| Web of Science      | 02 | 02  | 01 | 01 | 01 | 00 |
