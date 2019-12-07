@@ -15,8 +15,6 @@ we have identified ten tools, which refactor from bad smell detection.
 
 # Filtering Databases
 
-
-
 | Database            | 1º Step | 2º Step | 3º Step | 4º Step | 5º Step | 6º Step |
 |:--------------------|:--------|:--------|:--------|:--------|:--------|:--------|
 | ACM Digital Library | 97 | 68  | 33 | 25 | 12 | 03 |
@@ -29,11 +27,6 @@ we have identified ten tools, which refactor from bad smell detection.
 
 # Places of Publication
 
-Symposium	2
-Conference	8
-Journal	9
-Book Chapter	1
-
 | Place            | Total |
 |:-----------------|:------|
 | Book Chapter     | 01 |
@@ -43,6 +36,7 @@ Book Chapter	1
 
 
 # Events
+
 | Event                                                                             | Total |
 |:----------------------------------------------------------------------------------|:------|
 | Frontiers of Computer Science                                                     | 01 |
