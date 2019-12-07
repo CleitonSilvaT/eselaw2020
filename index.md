@@ -13,7 +13,7 @@ we have identified ten tools, which refactor from bad smell detection.
 
 
 
-###### Filtering Databases
+# Filtering Databases
 
 
 
@@ -26,3 +26,39 @@ we have identified ten tools, which refactor from bad smell detection.
 | Scopus              | 17 | 11  | 06 | 04 | 03 | 01 |
 | Springer            | 2,016 | 210  | 95 | 95 | 43 | 08 |
 | Web of Science      | 02 | 02  | 01 | 01 | 01 | 00 |
+
+# Places of Publication
+
+Symposium	2
+Conference	8
+Journal	9
+Book Chapter	1
+
+| Place            | Total |
+|:-----------------|:------|
+| Book Chapter     | 01 |
+| Conference       | 08 |
+| Journal          | 09 |
+| Symposium        | 02 |
+
+
+# Events
+| Event            | Total |
+|:--------------------|:--------|
+| Frontiers of Computer Science | 01 |
+| IEEE Transactions on Software Engineering	| 03 |
+| Innovations Syst Softw Eng         | 01 |
+| International Conference on Agile Software Development (XP)	| 02 |
+| International Conference on Enterprise Information Systems (ICEIS)	| 01 |
+| International Conference on Product Focused Software Process Improvement (PROFES)	| 01 |
+| International Conference on Software Analysis, Evolution, and Reengineering	  | 01 |
+| International Conference on Software Quality (SWQD)	| 01 |
+| International Journal of System Assurance Engineering and Management	| 01 |
+| International Symposium on Empirical Software Engineering	| 01 |
+| Joint Meeting on Foundations of Software Engineering	| 01 |
+| Journal of Software: Practice and Experience	| 01 |
+| Journal of Systems and Software	| 01 |
+| Recommendation Systems in Software Engineering	| 01 |
+| Requirements Eng	| 01 |
+| Simpósio Brasileiro de Engenharia de Software (SBES)	| 01 |
+| Working Conference on Reverse Engineering (WCRE)	| 01 |
