@@ -43,22 +43,22 @@ Book Chapter	1
 
 
 # Events
-| Event            | Total |
-|:--------------------|:--------|
-| Frontiers of Computer Science | 01 |
-| IEEE Transactions on Software Engineering	| 03 |
-| Innovations Syst Softw Eng         | 01 |
-| International Conference on Agile Software Development (XP)	| 02 |
-| International Conference on Enterprise Information Systems (ICEIS)	| 01 |
+| Event                                                                             | Total |
+|:----------------------------------------------------------------------------------|:------|
+| Frontiers of Computer Science                                                     | 01 |
+| IEEE Transactions on Software Engineering	                                        | 03 |
+| Innovations Syst Softw Eng                                                        | 01 |
+| International Conference on Agile Software Development (XP)	                      | 02 |
+| International Conference on Enterprise Information Systems (ICEIS)              	| 01 |
 | International Conference on Product Focused Software Process Improvement (PROFES)	| 01 |
-| International Conference on Software Analysis, Evolution, and Reengineering	  | 01 |
-| International Conference on Software Quality (SWQD)	| 01 |
-| International Journal of System Assurance Engineering and Management	| 01 |
-| International Symposium on Empirical Software Engineering	| 01 |
-| Joint Meeting on Foundations of Software Engineering	| 01 |
-| Journal of Software: Practice and Experience	| 01 |
-| Journal of Systems and Software	| 01 |
-| Recommendation Systems in Software Engineering	| 01 |
-| Requirements Eng	| 01 |
-| Simpósio Brasileiro de Engenharia de Software (SBES)	| 01 |
-| Working Conference on Reverse Engineering (WCRE)	| 01 |
+| International Conference on Software Analysis, Evolution, and Reengineering	      | 01 |
+| International Conference on Software Quality (SWQD)                             	| 01 |
+| International Journal of System Assurance Engineering and Management            	| 01 |
+| International Symposium on Empirical Software Engineering                       	| 01 |
+| Joint Meeting on Foundations of Software Engineering	                            | 01 |
+| Journal of Software: Practice and Experience	                                    | 01 |
+| Journal of Systems and Software                                                 	| 01 |
+| Recommendation Systems in Software Engineering	                                  | 01 |
+| Requirements Eng                                                                	| 01 |
+| Simpósio Brasileiro de Engenharia de Software (SBES)	                            | 01 |
+| Working Conference on Reverse Engineering (WCRE)                          	      | 01 |
