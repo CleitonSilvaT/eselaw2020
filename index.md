@@ -27,6 +27,8 @@ we have identified ten tools, which refactor from bad smell detection.
 | Springer            | 2,016 | 210  | 95 | 95 | 43 | 08 |
 | Web of Science      | 02 | 02  | 01 | 01 | 01 | 00 |
 
+
+
 # Places of Publication
 
 | Place            | Total |
@@ -35,6 +37,7 @@ we have identified ten tools, which refactor from bad smell detection.
 | Conference       | 08 |
 | Journal          | 09 |
 | Symposium        | 02 |
+
 
 
 # Events
@@ -59,8 +62,9 @@ we have identified ten tools, which refactor from bad smell detection.
 | Simpósio Brasileiro de Engenharia de Software (SBES)	                            | 01 |
 | Working Conference on Reverse Engineering (WCRE)                          	      | 01 |
 
-# Tools found in the Literature
 
+
+# Tools found in the Literature
 
 | Tool | Refactoring Tool Used | Bad Smell Tool Used | Reference |
 
