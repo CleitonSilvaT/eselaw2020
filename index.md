@@ -1,3 +1,5 @@
+# Abstract
+
 Bad Smells are indicators of code structure problems that may be solved via refactoring.
 Refactoring is a process of improving the internal structure of the software system by 
 improving code maintenance without changing the external behavior of the source code. 
@@ -56,3 +58,42 @@ we have identified ten tools, which refactor from bad smell detection.
 | Requirements Eng                                                                	| 01 |
 | Simpósio Brasileiro de Engenharia de Software (SBES)	                            | 01 |
 | Working Conference on Reverse Engineering (WCRE)                          	      | 01 |
+
+# Tools found in the Literature
+
+
+| Tool | Refactoring Tool Used | Bad Smell Tool Used | Reference |
+
+|:-----|:----------------------|:--------------------|:----------|
+
+| RESYS | OSORE                | OCEAN               | [1]       |
+
+| MMRUC3 | Integrated          | Integrated          | [1]       |
+
+|        | Refactoring Miner   | Own Metric Developed | [1]      |
+
+|        | JDeodorant          | JDeodorant and DECOR | [1]      |
+
+|        | Ref-Finder          | Own Metric Developed | [1]      |
+
+| Methodbook | Integrated      | Integrated           | [1]      |
+
+|        | DCRA                | NiCad                | [1]      |
+
+|        | JDeodorant          | JDeodorant           | [1]      |
+
+| Extract Method Detector | Integrated | Integrated   | [1]      |
+
+|       | ARIES and JDeodorant | ARIES and JDeodorant | [1]      |
+
+|        | CCShaper            | CCFinder             | [1]      |
+
+|  | Ref-Detector and Ref-Finder | Ref-Detector and Ref-Finder | [1] |
+
+| Liu's Approach | Integrated    | Integrated         | [1]      |
+
+| Tsantalis's Methodology  | Integrated  | Integrated | [1]      |
+
+|        |                     |HIST                  | [1]      |
+
+| JMove    | Integrated      | Integrated             | [1]      |
