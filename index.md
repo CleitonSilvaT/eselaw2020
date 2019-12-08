@@ -67,37 +67,20 @@ we have identified ten tools, which refactor from bad smell detection.
 # Tools found in the Literature
 
 | Tool | Refactoring Tool Used | Bad Smell Tool Used | Reference |
-
 |:-----|:----------------------|:--------------------|:----------|
-
 | RESYS | OSORE                | OCEAN               | [1]       |
-
 | MMRUC3 | Integrated          | Integrated          | [1]       |
-
 |        | Refactoring Miner   | Own Metric Developed | [1]      |
-
 |        | JDeodorant          | JDeodorant and DECOR | [1]      |
-
 |        | Ref-Finder          | Own Metric Developed | [1]      |
-
 | Methodbook | Integrated      | Integrated           | [1]      |
-
 |        | DCRA                | NiCad                | [1]      |
-
 |        | JDeodorant          | JDeodorant           | [1]      |
-
 | Extract Method Detector | Integrated | Integrated   | [1]      |
-
 |       | ARIES and JDeodorant | ARIES and JDeodorant | [1]      |
-
 |        | CCShaper            | CCFinder             | [1]      |
-
 |  | Ref-Detector and Ref-Finder | Ref-Detector and Ref-Finder | [1] |
-
 | Liu's Approach | Integrated    | Integrated         | [1]      |
-
 | Tsantalis's Methodology  | Integrated  | Integrated | [1]      |
-
 |        |                     |HIST                  | [1]      |
-
 | JMove    | Integrated      | Integrated             | [1]      |
