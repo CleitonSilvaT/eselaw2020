@@ -91,26 +91,44 @@ we have identified ten tools, which refactor from bad smell detection.
 #### Filtering Steps
 
 [] A Duplicated Code Refactoring Advisor
+
 [] An Approach for Semantically-Enriched Recommendation of Refactorings Based on the Incidence of Code Smells
+
 [] An experimental investigation on the innate relationship between quality and refactoring
+
 [] Analysis of code smell to quantify the refactoring
+
 [] Common Refactorings, a Dependency Graph and some Code Smells: An Empirical Study of Java OSS
+
 [] Investigating the evolution of code smells in object-oriented systems
+
 [] Learning to Rank Extract Method Refactoring Suggestions for Long Methods
+
 [] Leveraging Code Smell Detection with Inter-smell Relations
+
 [] Major motivations for extract method refactorings: analysis based on interviews and change histories
+
 [] Methodbook: Recommending Move Method Refactorings via Relational Topic Models
+
 [] MMRUC3: A recommendation approach of move method refactoring using coupling, cohesion, and contextual similarity to enhance software design
+
 [] Recommending Refactoring Operations in Large Software Systems
+
 [] Refactoring Support Based on Code Clone Analysis
+
 [] Supporting requirements to code traceability through refactoring
+
 [] Understanding the impact of refactoring on smells: A longitudinal study of 23 software projects
 
 
 #### Snowballing
 
 [] Does refactoring improve software structural quality? A longitudinal study of 25 projects
+
 [] Domino effect: Move more methods once a method is moved
+
 [] Identification of move method refactoring opportunities
+
 [] Mining version histories for detecting code smells
+
 [] Recommending move method refactorings using dependency sets
