@@ -17,7 +17,7 @@ we have identified ten tools, which refactor from bad smell detection.
 
 # Filtering Databases
 
-| Database            | 1º Step | 2º Step | 3º Step | 4º Step | 5º Step | 6º Step |
+| Database            | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
 |:--------------------|:--------|:--------|:--------|:--------|:--------|:--------|
 | ACM Digital Library | 97 | 68  | 33 | 25 | 12 | 03 |
 | Engineering Village | 20 | 13  | 06 | 04 | 03 | 03 |
