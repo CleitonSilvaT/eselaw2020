@@ -77,9 +77,9 @@ we have identified ten tools, which refactor from bad smell detection.
 | DCRA   | Integrated          | NiCad                | [13]      |
 |        | JDeodorant          | JDeodorant           | [9]      |
 | Extract Method Detector | Integrated | Integrated   | [23]      |
-|       | ARIES and JDeodorant | ARIES and JDeodorant | [4]      |
+|       | ARIES and JDeodorant | JDeodorant | [4]      |
 | CCShaper | Integrated          | CCFinder             | [18]      |
-|  | Ref-Detector and Ref-Finder | Ref-Detector and Ref-Finder | [8] |
+|  | Ref-Detector               | Metrics to Detect Smell | [8] |
 | Liu's Approach | Integrated    | Integrated         | [21]      |
 | Tsantalis's Methodology  | Integrated  | Integrated | [42]      |
 | HIST   |                     | Integrated           | [30]      |
