@@ -18,7 +18,7 @@ we have identified ten tools, which refactor from bad smell detection.
 # Filtering Databases
 
 | Database            | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
-|:--------------------|:--------|:--------|:--------|:--------|:--------|:--------|
+|:--------------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | ACM Digital Library | 97 | 68  | 33 | 25 | 12 | 03 |
 | Engineering Village | 20 | 13  | 06 | 04 | 03 | 03 |
 | IEEE Xplore         | 28 | 18  | 12 | 05 | 02 | 00 |
@@ -32,7 +32,7 @@ we have identified ten tools, which refactor from bad smell detection.
 # Places of Publication
 
 | Place            | Total |
-|:-----------------|:------|
+|:-----------------|:------:|
 | Book Chapter     | 01 |
 | Conference       | 08 |
 | Journal          | 09 |
@@ -43,7 +43,7 @@ we have identified ten tools, which refactor from bad smell detection.
 # Events
 
 | Event                                                                             | Total |
-|:----------------------------------------------------------------------------------|:------|
+|:----------------------------------------------------------------------------------|:------:|
 | Frontiers of Computer Science                                                     | 01 |
 | IEEE Transactions on Software Engineering	                                        | 03 |
 | Innovations Syst Softw Eng                                                        | 01 |
@@ -67,7 +67,7 @@ we have identified ten tools, which refactor from bad smell detection.
 # Tools found in the Literature
 
 | Tool | Refactoring Tool Used | Bad Smell Tool Used | Reference |
-|:-----|:----------------------|:--------------------|:----------|
+|:-----|:----------------------|:--------------------|:----------:|
 | RESYS | OSORE                | OCEAN               | [37]       |
 | MMRUC3 | Integrated          | Integrated          | [33]       |
 |        | Refactoring Miner   | Own Metric Developed | [7]      |
