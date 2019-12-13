@@ -86,7 +86,7 @@ we have identified ten tools, which refactor from bad smell detection.</p>
 | JMove    | Integrated      | Integrated             | [34]      |
 
 
-## List of Papers
+# List of Papers
 
 #### Filtering Steps
 
@@ -134,7 +134,7 @@ we have identified ten tools, which refactor from bad smell detection.</p>
 [34] Recommending Move Method Refactorings Using Dependency Sets
 
 
-# Publication
+## Publication
 
 Experimental Software Engineering Track (ESELAW)
 
