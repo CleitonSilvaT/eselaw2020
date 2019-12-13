@@ -132,3 +132,12 @@ we have identified ten tools, which refactor from bad smell detection.</p>
 [30] Mining Version Histories for Detecting Code Smells
 
 [34] Recommending Move Method Refactorings Using Dependency Sets
+
+
+# Publication
+
+Experimental Software Engineering Track (ESELAW)
+
+23rd Iberoamerican Conference on Software Engineering (CIbSE 2020)
+
+Curitiba, Brazil, May 4 - 8, 2020
