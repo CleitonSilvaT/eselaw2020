@@ -1,6 +1,6 @@
 # Abstract
 
-Bad Smells are indicators of code structure problems that may be solved via refactoring.
+<p style="text-align: justify;">Bad Smells are indicators of code structure problems that may be solved via refactoring.
 Refactoring is a process of improving the internal structure of the software system by 
 improving code maintenance without changing the external behavior of the source code. 
 However, the refactoring process takes effort, so it should be done in a disciplined manner 
@@ -11,7 +11,7 @@ direct relationship between 31 different refactorings and 16 bad smells proposed
 Analyzing these papers, we have found that (1) the relationship between Move Method applied to 
 Feature Envy bad smell appears as the most discussed issues in these studies; (2) there are 
 different refactoring strategies than those proposed by Fowler to address bad smells; and (3), 
-we have identified ten tools, which refactor from bad smell detection.
+we have identified ten tools, which refactor from bad smell detection.</p>
 
 
 
