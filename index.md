@@ -17,6 +17,9 @@ we have identified ten tools, which refactor from bad smell detection.</p>
 
 # Filtering Databases
 
+![Steps](img/steps.png)
+
+
 | Database            | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
 |:--------------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | ACM Digital Library | 97 | 68  | 33 | 25 | 12 | 03 |
@@ -27,7 +30,12 @@ we have identified ten tools, which refactor from bad smell detection.</p>
 | Springer            | 2,016 | 210  | 95 | 95 | 43 | 08 |
 | Web of Science      | 02 | 02  | 01 | 01 | 01 | 00 |
 
-
+* Step 1 - Remove Duplicates
+* Step 2 - Reading Title
+* Step 3 - Reading Abstract
+* Step 4 - Inclusion and Exclusion Criteria
+* Step 5 - Reading Introduction and Conclusion
+* Step 6 - Complete Reading of Paper
 
 # Places of Publication
 
