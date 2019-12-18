@@ -38,9 +38,11 @@ we have identified ten tools, which refactor from bad smell detection.</p>
 * Step 6 - Complete Reading of Paper
 
 
-[Evaluate Papers](file/Evaluate Data.xlsx)
+#### Files
 
-[Extract Data Papers](file/Extract Data.xlsx)
+* [Evaluate Papers](file/Evaluate Data.xlsx)
+* [Extract Data Papers](file/Extract Data.xlsx)
+
 
 # Places of Publication
 
